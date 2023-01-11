@@ -111,10 +111,10 @@ onAuthStateChanged(auth, (user2) => {
 </script>
 
 <style>
-body {
+/*body {
     background-image: url("./assets/background.jpg");
     background-repeat: repeat;
-}
+}*/
 
 /* width */
 ::-webkit-scrollbar {
